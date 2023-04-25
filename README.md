@@ -12,7 +12,7 @@ to this..
 
 ## How to use
 #### 1. Step ONE "Essential"
-1. Download [tinyMediaManager](https://github.com/tinyMediaManager/tinyMediaManager "tinyMediaManager") or get latest releases from [HERE](http://release.tinymediamanager.org/ "HERE").
+1. Download [tinyMediaManager](https://gitlab.com/tinyMediaManager/tinyMediaManager "tinyMediaManager") or get latest releases from [HERE](https://www.tinymediamanager.org/download/ "HERE").
 2. Run **tinyMediaManager** and Search&Scrap your movies.
 3. This will download poster images to your movies folders that **Movies-Icon-Changer** will use to create Icons.
 4. NOW every movie folder contains `<Movie-Name>-poster.jpg`.
